@@ -48,6 +48,8 @@ void setWeight(int newWeight) {
 -----------
 
 ## Polymorphism
+[Polymorphism Source Code](DesignPatterns/src/polymorphism)
+
 - Polymorphism allows us to write methods that don't need to change if new subclasses are created
 - Subclass can add a new method or override a method without affecting the parent class
 - Different subclasses' object can be added in one array by defining parent class
