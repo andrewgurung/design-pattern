@@ -9,7 +9,7 @@ URL: http://www.andrewgurung.com/
 -----------
 
 ## Inheritance
-[Source Code](src/inheritance)
+[Inheritance Source Code](src/inheritance)
 
 ### Class
 - Class is a blueprint
