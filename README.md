@@ -9,6 +9,7 @@ URL: http://www.andrewgurung.com/
 -----------
 
 ## Inheritance
+[Source Code](/src/inheritance)
 
 ### Class
 - Class is a blueprint
@@ -20,6 +21,10 @@ URL: http://www.andrewgurung.com/
 ### Inheritance
 - Abstract out common features and put them in `super` class
 - Then override or extend methods in `sub` class
+- Subclasses have all the methods of super class
+  - super(): Calling `super()` method from subclass will call the parent constructor
+- Best Practice: Use inheritance only if there exists 'is-a' or 'has-a' relationship
+- Do not use inheritance just for the sake of code reuse
 
 ### Encapsulation
 - Hide data by declaring variables as `private`
@@ -35,4 +40,11 @@ void setWeight(int newWeight) {
   }
 }
 ```
-###
+
+### Pass by value VS Pass by reference
+- Primitive data types are passed by value
+- Objects are passed by reference
+
+-----------
+
+## Polymorphism
