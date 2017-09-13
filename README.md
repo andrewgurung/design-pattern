@@ -158,3 +158,10 @@ System.out.println(giraffe.getName()); // Frank
 ![Strategy Design Pattern](https://upload.wikimedia.org/wikipedia/commons/4/45/W3sDesign_Strategy_Design_Pattern_UML.jpg)
 
 -----------
+
+## Observer Design Pattern
+[Source Code](DesignPatterns/src/observer)
+- The subject (Publisher) maintains a list of its dependents
+- The dependents are called observers (Subscribers)
+- Publisher notifies observers automatically of any state changes, usually by calling one of their methods
+![Observer Design Pattern](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Observer.svg/854px-Observer.svg.png)
