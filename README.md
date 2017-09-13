@@ -152,3 +152,9 @@ System.out.println(giraffe.getName()); // Frank
 -----------
 
 ## Strategy Design Pattern
+[Source Code](DesignPatterns/src/strategy)
+- Dynamically change an algorithm used by an object at run time
+- Separates behavior from super and subclasses
+![Strategy Design Pattern](https://upload.wikimedia.org/wikipedia/commons/4/45/W3sDesign_Strategy_Design_Pattern_UML.jpg)
+
+-----------
