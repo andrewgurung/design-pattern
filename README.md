@@ -169,3 +169,13 @@ System.out.println(giraffe.getName()); // Frank
 -----------
 
 ## Factory Design Pattern
+
+-----------
+
+## Abstract Factory Design Pattern
+
+-----------
+
+## Singleton Design Pattern
+
+-----------
