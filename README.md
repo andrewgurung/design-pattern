@@ -199,3 +199,6 @@ System.out.println(giraffe.getName()); // Frank
 
 ## Adapter Design Pattern
 -----------
+
+## Facade Design Pattern
+-----------
