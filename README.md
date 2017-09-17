@@ -179,3 +179,20 @@ System.out.println(giraffe.getName()); // Frank
 ## Singleton Design Pattern
 
 -----------
+
+## Builder Design Pattern
+-----------
+
+## Prototype Design Pattern
+
+-----------
+
+## Java Reflection API
+
+-----------
+
+## Decorator Design Pattern
+-----------
+
+## Command Design Pattern
+-----------
