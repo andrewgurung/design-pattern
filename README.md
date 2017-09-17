@@ -196,3 +196,6 @@ System.out.println(giraffe.getName()); // Frank
 
 ## Command Design Pattern
 -----------
+
+## Adapter Design Pattern
+-----------
