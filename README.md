@@ -202,3 +202,42 @@ System.out.println(giraffe.getName()); // Frank
 
 ## Facade Design Pattern
 -----------
+
+## Bridge Design Pattern
+-----------
+
+## Template Method Design Pattern
+-----------
+
+## Iterator Design Pattern
+-----------
+
+## Composite Design Pattern
+-----------
+
+## Flyweight Design Pattern
+-----------
+
+## State Design Pattern
+-----------
+
+## Proxy Design Pattern
+-----------
+
+## Chain of Responsibility Design Pattern
+-----------
+
+## Interpreter Design Pattern
+-----------
+
+## Mediator Design Pattern
+-----------
+
+## Memento Design Pattern
+-----------
+
+## Visitor Design Pattern
+-----------
+
+## MVC Design Pattern
+-----------
